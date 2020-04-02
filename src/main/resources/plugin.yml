@@ -1,0 +1,10 @@
+name: Qzdeath
+version: ${project.version}
+main: com.kef.qzdeath.Qzdeath
+api-version: 1.15
+authors: [rockcrafts, kef_ow(kinda)]
+description: Makes you a ghost when you die and you have to go back to your death spot to un-ghost.
+commands:
+  qze:
+    usage: /qze
+    description: exits ghost mode

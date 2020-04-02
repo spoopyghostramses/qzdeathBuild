@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="qzdeath:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="qzdeath.jar">
+      <element id="module-output" name="qzdeath" />
+    </root>
+  </artifact>
+</component>
